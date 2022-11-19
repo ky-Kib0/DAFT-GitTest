@@ -6,7 +6,7 @@ Library/
 Logs/
 Packages/
 Temp/
-[Oo]bj/
+*.obj/
 Unity.Analytics.DataPrivacy.csproj
 Unity.CollabProxy.Editor.csproj
 Unity.PackageManagerUI.Editor.csproj
